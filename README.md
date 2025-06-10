@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayan Patel</h1>
 <h3 align="center">Frontend Developer & AI Enthusiast | B.Tech IT Student | Passionate about MERN, ML & Projects</h3>
 
-<img align="right" alt="coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8edb4d68049875.5b4eb5c35bc3f.gif
-">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayanpatel1&label=Profile%20views&color=0e75b6&style=flat" alt="ayanpatel1" /> </p>
 
